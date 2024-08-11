@@ -104,34 +104,6 @@ print_r($result); // Merges arrays and reindexes numeric keys
 
 ```
  
-These examples illustrate how PHP's array functions can be used to perform common tasks such as creating arrays, modifying keys, splitting arrays, counting values, comparing arrays, filtering elements, flipping keys and values, and merging arrays. Each function serves a unique purpose, allowing for flexible and efficient manipulation of array data within PHP scripts.
- 
-Citations:
-
-[1] https://www.w3schools.com/php/php_ref_array.asp
-
-[2] https://www.php.net/manual/en/ref.array.php
-
-[3] https://blog.hubspot.com/website/php-array-functions
-
-[4] https://www.geeksforgeeks.org/php-array-functions-complete-reference/
-
-[5] https://www.javatpoint.com/php-array-functions
-
-[6] https://dev.to/karleb/10-php-array-functions-and-how-to-use-them-462n
-
-[7] https://www.tutorialspoint.com/php/php_array_functions.htm
-
-[8] https://www.php.net/manual/en/language.types.array.php
-
-[9] https://www.scaler.com/topics/php-tutorial/array-function-in-php/
-
-[10] https://www.w3schools.com/php/func_array.asp
-W3Schools.com
-W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
- 
-Continuing from the previous examples, here are more PHP array functions with their descriptions and usage examples:
- 
 ### 9. `array_column()`
 
 Returns the values from a single column in the input array.
