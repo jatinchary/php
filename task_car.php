@@ -115,8 +115,8 @@ $brandB->addCar($carB3);
 $brandB->addCar($carB4);
 
 $carA1->fullPayment();
-$carA1->downPaymentWithFinance();
-$carA1->fullFinance();
+$carB1->downPaymentWithFinance();
+$carB4->fullFinance();
  
 // Display Car Brand Details
 echo $brandA->getBrandDetails();
